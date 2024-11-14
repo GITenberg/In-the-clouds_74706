@@ -1,0 +1,33 @@
+_repo: In-the-clouds_74706
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Craddock, Charles Egbert
+    aliases:
+    - Dembry, R. Emmett
+    - Murfree, Mary Noailles
+    birthdate: 1850
+    deathdate: 1922
+    gutenberg_agent_id: '1759'
+    url: http://www.gutenberg.org/2009/agents/1759
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Noailles_Murfree
+description: ''
+gutenberg_issued: '2024-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74706'
+language: en
+pgterms:marc904: https://archive.org/details/inclouds00cradiala
+pgterms:marc905: 20200924114400craddock
+pgterms:marc906: '1886'
+pgterms:marc907: us
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aBoston :$bHoughton, Mifflin and Company, $c1886.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: In the clouds
+url: http://www.gutenberg.org/ebooks/74706
